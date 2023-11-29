@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RungeKutta FormatVersion="1">
+
+	<Parametri>
+
+		<P.U. x_0="5.1" y_0="0">
+
+		</P.U.>
+
+	</Parametri>
+
+	<Funkcija>
+		<Dif.jed. dif_jed = "y'''' = 1x + 14y - 27y' + 45y'' - 5.1y'''">
+
+		</Dif.jed.>
+	</Funkcija>
+
+	<Tacka_za_racunanje>
+		<x_max x_max = "51.2">
+			
+		</x_max>
+	</Tacka_za_racunanje>
+
+</RungeKutta>
