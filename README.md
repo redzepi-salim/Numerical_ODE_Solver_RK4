@@ -25,6 +25,7 @@ python --version
 2. Install numpy and matplotlib using commands:
 
 python -m pip install matplotlib
+
 python -m pip install numpy
 
 3. After creating a new project in VS (make sure to choose release and not debug, also in x64) and downloading matplotlibcpp.h from the repository add it to the project (the source files).
