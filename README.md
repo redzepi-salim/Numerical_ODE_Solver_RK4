@@ -12,7 +12,7 @@ Installation should be done through VCPKG, following the standard procedure.
 
 The code uses apart from standard C++ libraries and pugixml, matplotlib-cpp for graphic representations, which can be found on the following link.
 
-[GitHub Pages](https://github.com/lava/matplotlib-cpp)
+[https://github.com/lava/matplotlib-cpp](https://github.com/lava/matplotlib-cpp)
 
 ### Installation
 
